@@ -21,3 +21,6 @@
 블로그 / 이메일
 
 <a href="https://ziszini.tistory.com/"><img src="https://img.shields.io/badge/dev_genie-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/zisuzin1978@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zisuzin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
