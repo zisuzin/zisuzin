@@ -18,7 +18,7 @@
 2022-12 ~ 2023-07 　　그린컴퓨터아카데미 프로젝트기반 프론트엔드(React,Vue) 웹&앱 SW개발자 양성과정 수료
 #
 ### ⚡ My Tech Stacks
-언어 / 프레임워크 / 라이브러리 <br>
+언어 / 프레임워크 / 라이브러리 / 플랫폼 <br>
 
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <br />
   <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white"/> <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/>
