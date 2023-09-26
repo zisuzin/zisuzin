@@ -1,12 +1,28 @@
+<div align="center">
+  <a href="https://www.yoon-ho.com">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=&#123'✋🏻hello%20world!'&#125&#59&fontSize=50&animation=blinking" />
+  </a>
+</div>
+<br />
 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyunolike%2Fhyunolike&count_bg=%2300C13A&title_bg=%23252525&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true"/></a>
-<h2> Hi, I'm Sujin Ji <img src="https://res.cloudinary.com/dgggcrkxq/image/upload/v1615531502/noticon/geqiddevnvqmjwyggmp7.gif" width="50"> </h2>
-<div>  
+<p align="center"><b>🛠 Tech Stack 🛠</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Scss-CC6699?style=flat&logo=Sass&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=StyledComponents&logoColor=white"/></a>&nbsp
+  <br />
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Typescript-3178c6?style=flat-square&logo=Typescript&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/></a>&nbsp
+</p>
+<br />
 
-<p>“It always seems impossible until its done. (Nelson Mandela)”</p>
-<img align="right" src="https://media0.giphy.com/media/lTXid2BesgPAxidYQC/200w.gif">   
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zisuzin&show_icons=true&theme=dark)
+<p align="center"><b>🛠 Tool & Collaboration 🛠</b></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<p align="center"><b>📫 Blog</b></p>
+<p align="center">
+  <a href="https://ziszini.tistory.com"><img src="https://img.shields.io/badge/tistory-000000?style=flat-square&logo=Vimeo&logoColor=white&link=https://tistory.io/@zeebeck"/></a>&nbsp
+</p>
+<br />
