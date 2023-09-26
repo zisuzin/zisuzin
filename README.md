@@ -8,7 +8,7 @@
 <a href="https://ziszini.tistory.com/"><img src="https://img.shields.io/badge/dev_genie-000000?style=flat-square&logo=tistory&logoColor=white"/></a> <img src="https://img.shields.io/badge/zisuzin1978@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 #
-### 💁‍♂️ Who am I?
+### 💁‍♀️ Who am I?
 - 현재 프론트엔드 개발자를 목표로 공부하고 있습니다.</a>
 - 지난 코드도 다시 보고 리팩토링하는 것을 좋아합니다.
 - 하나의 언어 또는 문제를 깊이 탐구하는 것을 좋아합니다.
